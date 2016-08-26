@@ -1,7 +1,7 @@
-import { createStore } from 'redux';
-import { combineReducers } from 'redux';
-import React from 'react';
+import { createStore, combineReducers } from 'redux';
+import React, { PropTypes } from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
 
 ReactDOM.render(
   <p>"Hello, World!"</p>,
