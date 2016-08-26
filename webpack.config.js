@@ -20,7 +20,7 @@ module.exports = {
         loader: 'babel'
       }
     ]
-  },
+  },  
   plugins: [
     new webpack.HotModuleReplacementPlugin()
   ],
