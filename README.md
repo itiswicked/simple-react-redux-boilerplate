@@ -28,4 +28,12 @@ To get started:
 $ webpack-dev-server
 ```
 
-Really, feel free to just use this repo for what you want!
+If you have problems with this command and you have not used webpack before, you may need to install webpack globally:
+
+```
+npm install -g webpack
+```
+
+and restart your terminal.
+
+Feel free to just use this repo for what you want!
